@@ -1,0 +1,6 @@
+{
+    "TOKEN": "telegram token",
+    "TIMBER_API_KEY" : "timber.io key",
+    "TIMBER_ID": "timber.io id",
+    "SLACK_TOKEN": "slack webhook"
+}
