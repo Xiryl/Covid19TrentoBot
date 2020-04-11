@@ -18,3 +18,7 @@ To run the bot you need a configuration file located in `./lib/config/config.jso
 #### Run
 
 `node index.js`
+
+#### Contribution
+
+PR and issues are allowed :blush:
